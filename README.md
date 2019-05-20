@@ -6,10 +6,9 @@ A Javascript Pulumi do deploy Crystal Lang server on AWS Fargate container
 
 1. Install [Pulumi](https://pulumi.io/quickstart/install.html)
 2. Configure [AWS Credentials](https://pulumi.io/quickstart/aws/setup.html)
-3. Install the @pulumi/cloud NPM package for aws
+3. Install modules 
 ```bash
-$ npm install --save @pulumi/cloud  @pulumi/cloud-aws
-```
+$ npm install
 4. Configure the region you want to deploy the stack to (Default: us-east-1)
 ```bash
 $ pulumi config set aws:region <region>
