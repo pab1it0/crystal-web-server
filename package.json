@@ -1,0 +1,9 @@
+{
+    "name": "javascript",
+    "main": "index.js",
+    "dependencies": {
+        "@pulumi/cloud": "^0.18.0",
+        "@pulumi/cloud-aws": "^0.18.0",
+        "@pulumi/pulumi": "latest"
+    }
+}

@@ -1,0 +1,3 @@
+name: crystal-web-server
+runtime: nodejs
+description: A Javascript Pulumi do deploy Crystal Lang server on AWS Fargate container

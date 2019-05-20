@@ -1,0 +1,13 @@
+name: crystal-web-server
+version: 0.1.0
+
+authors:
+  - Pavel Shklovsky <pavel@cloud-wars.com>
+
+targets:
+  crystal-web-server:
+    main: src/crystal-web-server.cr
+
+crystal: 0.28.0
+
+license: MIT
