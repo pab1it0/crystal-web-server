@@ -1,6 +1,6 @@
 # crystal-web-server
 
-A Javascript Pulumi do deploy Crystal Lang server on AWS Fargate container
+A Pulumi  app to deploy simple Crystal Lang server on AWS Fargate container
 
 ## Installation
 
